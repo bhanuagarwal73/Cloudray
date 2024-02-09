@@ -1,4 +1,7 @@
 {
+  "name": "cloudray-assignment",
+  "version": "1.0.0",
+  "description": "Assignment given by cloudray",
   "type": "module",
   "scripts": {
     "test": "del-cli --force target && ts-node --esm src/cloudray.ts"
