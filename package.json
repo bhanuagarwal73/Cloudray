@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "del-cli --force target && ts-node --esm src/cloudray.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "del-cli": "^5.1.0",
+    "moment": "^2.30.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
