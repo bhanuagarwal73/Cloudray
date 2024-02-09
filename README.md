@@ -1,4 +1,4 @@
-# merge-images
+# Cloudray-assignment
 >  Node project for assignment given by cloudray
 
 ## Installation
